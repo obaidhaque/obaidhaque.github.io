@@ -387,7 +387,7 @@ video{
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
 
-    max-width: calc(200px + (650 - 200) * ((100vw - 300px) / (1600 - 300)));
+    max-width: calc(350px + (650 - 350) * ((100vw - 300px) / (1600 - 300)));
 }
 
 
